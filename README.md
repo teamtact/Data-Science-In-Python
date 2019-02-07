@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Data-Science-In-Python.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Data-Science-In-Python)
+
 
 # [edX : UC San DiegoX](https://www.edx.org/school/uc-san-diegox)
 **[Python for Data Science](https://www.edx.org/course/python-for-data-science)**
